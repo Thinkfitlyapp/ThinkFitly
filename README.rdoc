@@ -1,6 +1,6 @@
 # Hello and thank you for visiting the ThinkFitly Health with a heart github repo!
 
-<p>Here you will find the latest changes to the ThinkFitly application, and he able to view 
+Here you will find the latest changes to the ThinkFitly application, and he able to view 
 and track our progress... Its our goal to create a health application that is open to 
 both technical users, and our normal user base as well.  
-Please visit our landing page today via [*ThinkFitly*](thinkfitly.com)</p>
+Please visit our landing page today via [*ThinkFitly*](thinkfitly.com)
