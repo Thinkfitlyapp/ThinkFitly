@@ -16,6 +16,15 @@ $font-family-sans-serif: 			'Lato', 'Helvetica Neue', Helvetica, Arial, sans-ser
 
 @import "bootstrap";
 
+body { 
+	padding-top: 70px; 
+}
+
+/* LogIn Button */
+.loginbtn {
+	text-align: center;
+}
+
 /* Sign Up Button */
 .signupbtn {
 	text-align: center;
