@@ -1,28 +1,6 @@
-== README
+# Hello and thank you for visiting the ThinkFitly Health with a heart github repo!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+<p>Here you will find the latest changes to the ThinkFitly application, and he able to view 
+and track our progress... Its our goal to create a health application that is open to 
+both technical users, and our normal user base as well.  
+Please visit our landing page today via [*ThinkFitly*](thinkfitly.com)</p>
