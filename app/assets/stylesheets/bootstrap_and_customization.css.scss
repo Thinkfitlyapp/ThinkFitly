@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
 /* Project progress bar */
 $progress-bg: 						#FFCC66;
 $progress-bar-warning-bg:			#3498db;
@@ -8,10 +10,23 @@ $navbar-default-bg:					#FFFFFF;
 $navbar-default-link-color: 		#3498db;
 $navbar-default-link-hover-color:	#f39c12;
 
+/* Font-styles */
+$font-family-sans-serif: 			'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
 
 @import "bootstrap";
 
 /* Sign Up Button */
 .signupbtn {
 	text-align: center;
+}
+
+/* Nav Style */
+.nav {
+	font-size: 24px;
+} 
+
+/* Navbar Logo/Name */
+.navbar-brand {
+	font-size: 32px;
 }
