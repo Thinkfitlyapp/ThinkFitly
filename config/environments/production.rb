@@ -77,4 +77,8 @@ Thinkfitly::Application.configure do
 
   # Use default logging formatter so that PID and timestamp are not suppressed.
   config.log_formatter = ::Logger::Formatter.new
+
+  # required for heroku, must be set to hosting location
+  config.action_mailer.default_url_options = { :host => 'thinkfitly.herokuapp.com' }
+
 end

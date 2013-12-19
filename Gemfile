@@ -33,6 +33,9 @@ group :development, :test do
 	gem 'sqlite3'
 end
 
+# This is the user Log In and Sign Up gem framework
+gem "devise", "~> 3.2.2"
+
 group :production do
 	gem "pg"
 	gem "rails_12factor"
