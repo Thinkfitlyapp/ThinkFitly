@@ -16,6 +16,14 @@ $font-family-sans-serif: 			'Lato', 'Helvetica Neue', Helvetica, Arial, sans-ser
 
 @import "bootstrap";
 
+#forgetbtn {
+	text-align: center;
+}
+
+#forgetlinks {
+	text-align: center;
+}
+
 body { 
 	padding-top: 70px; 
 }
