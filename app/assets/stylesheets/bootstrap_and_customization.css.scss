@@ -15,6 +15,11 @@ $font-family-sans-serif: 			'Lato', 'Helvetica Neue', Helvetica, Arial, sans-ser
 
 @import "bootstrap";
 
+#trannavbar {
+	background: -webkit-linear-gradient(0deg, #be0344, #be0344 0.88%,
+    rgba(229, 70, 127, 0.91) 0.881%, #e5467f);
+}
+
 #supbtn {
 	text-align: center;
 }
